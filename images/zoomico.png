@@ -1,0 +1,68 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+<!DOCTYPE html>
+<html>
+        <head>
+                <meta charset="utf-8">
+                <title>JOYCALLS</title>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+                <link rel="stylesheet" href="styles/main.css">
+                <script src="js/jquery-1.12.3.min.js"></script>
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159114415-2"></script>
+                <script>
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag() {
+                                dataLayer.push(arguments);
+                        }
+                        gtag('js', new Date());
+
+                        gtag('config', 'UA-159114415-2');
+                </script>
+
+
+        </head>
+        <body>
+                <header class="header">
+                        <div class="header-wrapper _height"><img class="header-icon" src="images/warning-icon.svg">
+                                <p class="header-text">The web address you requested was restricted or does not exist</p>
+                        </div>
+                </header>
+<!--<div class="games-wrapper">
+        <div class="wrapper-content">
+                <div class="container col-padding">
+                        <div class="col-xs-12 col" style="text-align: center;">                                            
+                                <button class="btn-load" style="margin-top: 0px; font-size: 30px;">
+                                        PLAY NOW
+                                </button>
+                                <br/>
+                                <br/>
+                                <img style="width:100%; cursor: pointer" src="img/banner.jpg" onclick="location.href = 'subscribe?level=1'"/>
+                        </div>
+                </div>
+        </div>
+</div>-->
+<main class="_height _white">
+        <center>
+                
+                <img style="width:98%" src="banners/60TK_Combo.jpeg" />
+                
+        </center>       
+                <!--
+                <div class="banner-img-header">Unlimited chatting</div><img src="images/banner-1.png" alt="banner">
+                -->
+        
+        <!--<div class="button-block"><a class="button _violet" href="subscribe?level=1">CHAT NOW!</a></div>
+        <div class="small-text-block _black">
+                <p> By pressing "Chat now" you agree to</p><a href="">the terms of mobile subscriptions</a>
+        </div>
+        -->
+</main>
+</body>

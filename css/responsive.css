@@ -1,0 +1,87 @@
+@media (min-width:320px) and (max-width:575px) {
+    /* responsive css start */
+    .title {
+        text-align: left;
+    }
+    .title p {
+        font-size: 14px;
+        margin-left: 70px;
+    }
+   .title h2 {
+        font-size: 24px;
+        margin-left: 39px;
+    }
+    /* nav-r css start */
+
+    .navbar-nav {
+        background: #0f2f44;
+        text-align: center;
+    }
+
+    .navbar .collapse ul li {
+        margin-left: 0px;
+    }
+
+    .navbar .nav-button {
+        background: #0f2f44;
+        text-align: center;
+    }
+
+    .navbar .nav-button a {
+        font-size: 16px;
+        padding: 5px 5px;
+        margin-bottom: 10px;
+    }
+
+    .navbar .collapse ul li a {
+        font-size: 16px;
+    }
+
+    .navbar .collapse ul li .dropdown-menu {
+        text-align: center;
+    }
+
+    .navbar .collapse ul li .dropdown-menu li {
+        display: block;
+    }
+
+    /* nav-r css end */
+    #banner-part .overlay .upper p {
+        font-size: 20px;
+        letter-spacing: 9px;
+        margin-bottom: 10px;
+    }
+    #banner-part .overlay .upper h1 {
+        width: auto;
+        font-size: 40px;
+    }
+    /* about-r css start */
+
+
+    /* about-r css end */
+    /* speaker-r css start */
+    
+
+/* speaker-r css end */
+/* nice-scroll-r css start */
+
+
+
+/* nice-scroll-r css end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* responsive css end */
+}
